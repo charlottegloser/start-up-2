@@ -1,0 +1,11 @@
+a{
+	text-decoration: none;
+	color:black;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+a:hover{
+	color: rgb(100 100 100);
+
+}
